@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1578210313 source:c:\users\farheena khanam\desktop\bilal\c\week 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1578210270 source:c:\users\farheena khanam\desktop\bilal\c\week 1\fibonacci sequence.c
+	<stdio.h>
+	<stdlib.h>
+
+1578210554 source:c:\users\farheena khanam\desktop\bilal\c\week 1\hello world!.c
+	<stdio.h>
+	<stdlib.h>
+

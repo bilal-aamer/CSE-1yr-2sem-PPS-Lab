@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\farheena khanam\desktop\bilal\c\week 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1580553503 source:c:\users\farheena khanam\desktop\bilal\c\week 2\factorial.c
+	<stdio.h>
+	<stdlib.h>
+
